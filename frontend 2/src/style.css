@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+@theme {
+    --width-content: calc(100% - 32px);
+}
